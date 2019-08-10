@@ -1,0 +1,14 @@
+{
+  "name": "typeChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gwuiinkim <gwuiinkim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "yarn tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}
